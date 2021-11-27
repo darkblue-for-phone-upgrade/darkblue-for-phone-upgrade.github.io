@@ -138,6 +138,7 @@ body {
 }
 .footer {
   display: flex;
+  gap: 50px;
   align-items: center;
   text-align: center;
   justify-content: space-around;
@@ -150,4 +151,7 @@ h6 {
   font-size: 25px;
   color: #a2fab3;
   margin: 5px;
+}
+.footer img {
+  padding: 5px;
 }
